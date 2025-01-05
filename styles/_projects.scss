@@ -1,0 +1,21 @@
+.top-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+  
+    .project-h2 {
+      color: $primary-color;
+    }
+  }
+  
+  .three-img-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+  
+    img {
+      width: 30%;
+      border-radius: 8px;
+    }
+  }
+  
