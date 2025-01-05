@@ -1,0 +1,18 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $primary-color;
+    color: #fff;
+    padding: 1rem;
+  
+    .awesomefont-img-links a {
+      color: #fff;
+      margin-right: 1rem;
+      font-size: 1.2rem;
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+  
