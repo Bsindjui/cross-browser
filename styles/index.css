@@ -24,15 +24,14 @@
     opacity: 0.5;
   }
   
- 
- header {
+  header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 4vh;
     margin-bottom: 9vh;
   }
-
+  
   .footer-container {
     display: flex;
     justify-content: space-between;
